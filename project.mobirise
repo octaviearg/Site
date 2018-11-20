@@ -2816,7 +2816,7 @@
                 "active": false
               },
               {
-                "tags": "Print",
+                "tags": "Illustration",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2838,11 +2838,11 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page5.html\"><b>+</b></a>",
+                "caption": "<a href=\"page6.html\"><b>+</b></a>",
                 "active": false
               },
               {
-                "tags": "Print",
+                "tags": "Illustration",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
