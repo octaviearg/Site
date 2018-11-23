@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -72,7 +72,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 155,
+    "uniqCompNum": 156,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1060,7 +1060,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>— À propos ? &nbsp;<div>Actuellement étudiante en BTS Design Graphique, je suis&nbsp;</div><div>passionnée par l'art ainsi que la générosité apporté par l'expérimentation graphique.</div><div>Spécialisé en option web, je&nbsp;</div><div><br></div><div>​</div><div>\" C’est en faisant des erreurs que l’on apprend et que l’on se développe. Il faut être mauvais pour devenir bon \". Paula Scher&nbsp;</div><div>​</div><div>←</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>— À propos ? &nbsp;<div>Actuellement étudiante en BTS Design Graphique, spécialité en Web Design&nbsp;</div><div><span style=\"font-size: 0.8rem;\">Je suis à la recherche d'une alternance pour une licence en graphiste concepteur.&nbsp;</span></div><div><span style=\"font-size: 0.8rem;\">Passionné par l'art et le graphisme, &nbsp;je reste informé des dernière tendances ainsi que par les outils</span></div><div><span style=\"font-size: 0.8rem;\">de communication nécessaire.&nbsp;<br></span></div><div>​</div><div>\" C’est en faisant des erreurs que l’on apprend et que l’on se développe. Il faut être mauvais pour devenir bon \". Paula Scher&nbsp;</div><div>​</div><div>←</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9iEJFFAfc",
           "_anchor": "content1-1m",
           "_protectedParams": [],
